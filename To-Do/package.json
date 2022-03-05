@@ -1,0 +1,23 @@
+{
+  "name": "to-do",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "body-parser": "^1.19.2",
+    "bootstrap": "^4.6.1",
+    "bootstrap-icons": "^1.8.1",
+    "cors": "^2.8.5",
+    "experss": "^0.0.1-security",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.4",
+    "path": "^0.12.7"
+  }
+}
